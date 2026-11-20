@@ -285,7 +285,3 @@ The Cassandra environment is configured for local development and experimentatio
 - Logical partition distribution and inspection
 
 ---
-
-## Author
-
-Data Engineering Projects
