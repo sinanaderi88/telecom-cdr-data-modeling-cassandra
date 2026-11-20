@@ -216,9 +216,9 @@ The largest partitions were retrieved directly from Cassandra and their record c
 Partition counts shown above are logical counts derived from the source data. They are not exact measurements of Cassandra's physical storage layout.
 
 ---
-```
-## Project Structure
 
+## Project Structure
+```text
 telecom-usage-cassandra/
 ├── cassandra/
 │   └── schema.cql
